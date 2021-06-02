@@ -1,0 +1,27 @@
+#topo {
+    width: 100%;
+    background-color: gray;
+    font-size: large;
+    border: solid black 2px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#menu-btn span {
+    background-color: red;
+    color: red;
+}
+
+h2 {
+    color: white;
+}
+
+a {
+    color: white;
+    text-decoration: none;    
+}
+
+a:hover {
+    color: black;
+}
