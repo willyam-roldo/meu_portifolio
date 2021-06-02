@@ -25,3 +25,25 @@ a {
 a:hover {
     color: black;
 }
+
+div#hero {
+    border: 1px solid black;
+    height: 600px;
+    background: #ccc;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+div.imagem {
+    height: 150px;
+}
+
+div.titulo {
+    height: 150px;
+}
+
+div.stacks {
+    height: 150px;
+}
